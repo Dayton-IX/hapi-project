@@ -1,0 +1,25 @@
+{
+  "name": "hapi-project",
+  "version": "1.0.0",
+  "description": "basic hapi project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayton-IX/hapi-project.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "Dayton-IX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayton-IX/hapi-project/issues"
+  },
+  "homepage": "https://github.com/Dayton-IX/hapi-project#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
